@@ -1,6 +1,6 @@
 # ChronoChess
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/warhawk-47/an-online-chess-game)
 
 A visually striking, retro-themed online chess game focusing on a polished user experience and robust, client-side gameplay.
 
@@ -73,7 +73,7 @@ This project is configured for easy deployment to Cloudflare Workers.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/warhawk-47/an-online-chess-game)
 
 ## Project Structure
 
